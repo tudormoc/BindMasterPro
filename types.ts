@@ -22,8 +22,3 @@ export interface CalculatedSpecs {
   frontBoardStart: number;
   backBoardEnd: number;
 }
-
-export interface ChatMessage {
-  role: 'user' | 'model';
-  text: string;
-}
