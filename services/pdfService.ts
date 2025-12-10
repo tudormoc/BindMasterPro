@@ -161,7 +161,7 @@ export const generateBlueprintPDF = (dimensions: CoverDimensions, specs: Calcula
   // Fonts
   doc.setFont("helvetica", "bold");
   doc.setFontSize(16);
-  doc.text("TM BindMaster 3D - Prepress Blueprint", 10, 15);
+  doc.text("BindMasterPro - Prepress Blueprint", 10, 15);
 
   doc.setFont("helvetica", "normal");
   doc.setFontSize(10);

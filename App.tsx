@@ -56,7 +56,7 @@ const App: React.FC = () => {
               <Layers size={20} strokeWidth={2.5} />
             </div>
             <div>
-              <h1 className="font-bold text-lg tracking-tight text-white leading-none">TM BindMaster <span className="text-cyan-400 font-mono">3D</span></h1>
+              <h1 className="font-bold text-lg tracking-tight text-white leading-none">BindMaster<span className="text-cyan-400 font-mono">Pro</span></h1>
             </div>
           </div>
           <div className="text-[10px] text-zinc-600 font-mono hidden sm:block uppercase tracking-widest">
